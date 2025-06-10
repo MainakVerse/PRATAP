@@ -93,7 +93,7 @@ export const Features = () => {
                     </li>
                   ))}
                 </ul>
-                <Link href="/contracts"><Button className="mt-16">Try it now</Button></Link>
+                <Link href="/generate"><Button className="mt-16">Try it now</Button></Link>
               </div>
 
               {/* right side */}
